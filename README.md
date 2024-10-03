@@ -16,7 +16,7 @@ To run this tool, you need to install the following:
 - **Python 3.8+**
 - **Google Chrome** browser
 - **ChromeDriver** that matches your Chrome version
-
+Also you can get 10 free proxies from https://proxy2.webshare.io , then use the api url you get when you click on " download proxy list"
 ### Python Libraries:
 - `seleniumwire` (for managing proxy settings in Selenium)
 - `selenium` (for browser automation)
